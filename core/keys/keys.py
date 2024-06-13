@@ -162,7 +162,7 @@ punctuation_words = {
     "ampersand": "&",
     # Currencies
     "dollar sign": "$",
-    "pound sign": "£",
+    # "pound sign": "£",
     "hyphen": "-",
     "L paren": "(",
     "left paren": "(",
@@ -223,7 +223,7 @@ symbol_key_words = {
     "double quote": '"',
     # Currencies
     "dollar": "$",
-    "pound": "£",
+    # "pound": "£",
 }
 
 # make punctuation words also included in {user.symbol_keys}
